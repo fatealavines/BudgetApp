@@ -1,0 +1,55 @@
+body{
+    font-family:"Segoe UI", Tahoma, sans-serif;
+    background-color: mediumpurple;
+}
+
+main {
+    width: 60%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+section {
+    margin-bottom: 30px
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 0px;
+}
+
+input{
+display: block;
+width: 200px;
+margin: 10px auto;
+height: 20px;
+border-radius:5px;
+border: 1px solid lightgray;
+font-family: "segoe UI", Tahoma, sans-serif;
+font-size: 1em;
+padding:10px;
+}
+
+button{
+    border-radius: 5px;
+    padding: 10px 20 px;
+    border:none;
+    background-color: slateblue;
+    color: white;
+    font-family: "segoe UI", Tahoma, sans-serif;
+    font-size: 1em;
+    margin: 10px;
+}
+
+button:hover {
+    color: slateblue;
+    background-color: white;
+}
+
+.green {
+    color:greenyellow;
+}
+
+.red {
+    color: orangered;
+}
